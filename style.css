@@ -1,0 +1,33 @@
+ .block1{
+position:absolute;
+height: 450px;
+background-color:#000;
+opacity:0.5;
+width:220px;
+top:194px;
+left: 70px;
+Border-width:3px;
+border-Style:outset;
+}
+.block2{
+position:absolute;
+height: 826px;
+width:300px;
+top:194px;
+right:-165px;
+Border-width:3px;
+border-Style:inset;
+background:rgba(206,171,107,0.7);
+}
+ .MyClass{
+color:red;
+font-size:20pt;
+background:Green;	 
+ }
+	 
+ .MyClass1{
+	color:;
+font-size:20pt;
+background:Green; 
+	
+ } 
